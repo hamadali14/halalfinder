@@ -1,0 +1,419 @@
+{
+  "restaurants": [
+    {
+      "id": "1",
+      "name": "Al-Sham Syrian Kitchen",
+      "slug": "al-sham-syrian-kitchen",
+      "city": "London",
+      "address": "42 Edgware Road, London, W2 2EH",
+      "lat": "51.5154",
+      "lng": "-0.1695",
+      "phone": "+44 20 7723 4444",
+      "website": "https://alsham.co.uk",
+      "coverImageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800&q=80",
+      "galleryImageUrls": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800&q=80,https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=800&q=80",
+      "cuisines": "Syrian,Middle Eastern,Levantine",
+      "halalStatus": "certified",
+      "certificationBody": "HFA",
+      "priceLevel": "2",
+      "rating": "4.8",
+      "reviewCount": "342",
+      "openingHours": "Mon-Sun 11:00-23:00",
+      "features": "prayer_space,family_seating,delivery,takeaway,vegetarian,wheelchair",
+      "isFeatured": "true",
+      "isActive": "true",
+      "lastUpdated": "2024-11-15"
+    },
+    {
+      "id": "2",
+      "name": "Bismillah Grill House",
+      "slug": "bismillah-grill-house",
+      "city": "Birmingham",
+      "address": "118 Stratford Road, Birmingham, B11 1AN",
+      "lat": "52.4751",
+      "lng": "-1.8756",
+      "phone": "+44 121 773 2200",
+      "website": "",
+      "coverImageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?w=800&q=80",
+      "galleryImageUrls": "https://images.unsplash.com/photo-1558030006-450675393462?w=800&q=80",
+      "cuisines": "Pakistani,Grill,BBQ",
+      "halalStatus": "certified",
+      "certificationBody": "AHFC",
+      "priceLevel": "2",
+      "rating": "4.6",
+      "reviewCount": "218",
+      "openingHours": "Mon-Thu 12:00-22:00, Fri-Sun 12:00-23:30",
+      "features": "family_seating,takeaway,delivery,wudu",
+      "isFeatured": "true",
+      "isActive": "true",
+      "lastUpdated": "2024-11-10"
+    },
+    {
+      "id": "3",
+      "name": "Meze Mangal",
+      "slug": "meze-mangal",
+      "city": "London",
+      "address": "245 Lewisham Way, London, SE4 1XF",
+      "lat": "51.4621",
+      "lng": "-0.0232",
+      "phone": "+44 20 8694 8099",
+      "website": "https://mezemangal.co.uk",
+      "coverImageUrl": "https://images.unsplash.com/photo-1530469912745-a215c6b256ea?w=800&q=80",
+      "galleryImageUrls": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?w=800&q=80",
+      "cuisines": "Turkish,Grill,Mediterranean",
+      "halalStatus": "claimed",
+      "certificationBody": "",
+      "priceLevel": "2",
+      "rating": "4.5",
+      "reviewCount": "487",
+      "openingHours": "Mon-Sun 12:00-23:00",
+      "features": "family_seating,delivery,takeaway,vegetarian,wheelchair",
+      "isFeatured": "true",
+      "isActive": "true",
+      "lastUpdated": "2024-10-28"
+    },
+    {
+      "id": "4",
+      "name": "Tayyab's",
+      "slug": "tayyabs",
+      "city": "London",
+      "address": "83-89 Fieldgate Street, London, E1 1JU",
+      "lat": "51.5177",
+      "lng": "-0.0647",
+      "phone": "+44 20 7247 9543",
+      "website": "https://tayyabs.co.uk",
+      "coverImageUrl": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=800&q=80",
+      "galleryImageUrls": "https://images.unsplash.com/photo-1567188040759-fb8a883dc6d8?w=800&q=80",
+      "cuisines": "Pakistani,Punjabi,Grill",
+      "halalStatus": "certified",
+      "certificationBody": "HFA",
+      "priceLevel": "2",
+      "rating": "4.7",
+      "reviewCount": "1203",
+      "openingHours": "Mon-Sun 12:00-23:30",
+      "features": "family_seating,takeaway,wheelchair",
+      "isFeatured": "true",
+      "isActive": "true",
+      "lastUpdated": "2024-11-01"
+    },
+    {
+      "id": "5",
+      "name": "Lahore Karahi",
+      "slug": "lahore-karahi",
+      "city": "Manchester",
+      "address": "1 Wilmslow Road, Manchester, M14 5TQ",
+      "lat": "53.4470",
+      "lng": "-2.2102",
+      "phone": "+44 161 248 9999",
+      "website": "",
+      "coverImageUrl": "https://images.unsplash.com/photo-1631515243349-e0cb75fb8d3a?w=800&q=80",
+      "galleryImageUrls": "",
+      "cuisines": "Pakistani,Karahi,Indian",
+      "halalStatus": "certified",
+      "certificationBody": "AHFC",
+      "priceLevel": "1",
+      "rating": "4.4",
+      "reviewCount": "156",
+      "openingHours": "Mon-Sun 11:00-01:00",
+      "features": "family_seating,takeaway,prayer_space,wudu",
+      "isFeatured": "false",
+      "isActive": "true",
+      "lastUpdated": "2024-09-20"
+    },
+    {
+      "id": "6",
+      "name": "Shwarma Palace",
+      "slug": "shwarma-palace",
+      "city": "Leeds",
+      "address": "56 Kirkgate, Leeds, LS2 7DJ",
+      "lat": "53.7988",
+      "lng": "-1.5400",
+      "phone": "+44 113 245 6677",
+      "website": "",
+      "coverImageUrl": "https://images.unsplash.com/photo-1561651823-34feb02250e4?w=800&q=80",
+      "galleryImageUrls": "",
+      "cuisines": "Lebanese,Shawarma,Fast Food",
+      "halalStatus": "certified",
+      "certificationBody": "HFA",
+      "priceLevel": "1",
+      "rating": "4.3",
+      "reviewCount": "89",
+      "openingHours": "Mon-Sun 10:00-24:00",
+      "features": "takeaway,delivery,vegetarian",
+      "isFeatured": "false",
+      "isActive": "true",
+      "lastUpdated": "2024-10-05"
+    },
+    {
+      "id": "7",
+      "name": "Divân Istanbul",
+      "slug": "divan-istanbul",
+      "city": "London",
+      "address": "17 Green Lanes, London, N16 9BS",
+      "lat": "51.5644",
+      "lng": "-0.0925",
+      "phone": "+44 20 7275 7800",
+      "website": "https://divanistanbul.co.uk",
+      "coverImageUrl": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092?w=800&q=80",
+      "galleryImageUrls": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=800&q=80",
+      "cuisines": "Turkish,Ottoman,Grill",
+      "halalStatus": "certified",
+      "certificationBody": "HFA",
+      "priceLevel": "3",
+      "rating": "4.9",
+      "reviewCount": "276",
+      "openingHours": "Tue-Sun 12:00-22:30, Mon Closed",
+      "features": "prayer_space,family_seating,wheelchair,vegetarian,vegan",
+      "isFeatured": "true",
+      "isActive": "true",
+      "lastUpdated": "2024-11-20"
+    },
+    {
+      "id": "8",
+      "name": "Karahi Point",
+      "slug": "karahi-point",
+      "city": "Birmingham",
+      "address": "78 Alum Rock Road, Birmingham, B8 1JB",
+      "lat": "52.4876",
+      "lng": "-1.8412",
+      "phone": "+44 121 328 1111",
+      "website": "",
+      "coverImageUrl": "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?w=800&q=80",
+      "galleryImageUrls": "",
+      "cuisines": "Pakistani,Karahi,Desi",
+      "halalStatus": "claimed",
+      "certificationBody": "",
+      "priceLevel": "1",
+      "rating": "4.2",
+      "reviewCount": "64",
+      "openingHours": "Mon-Sun 12:00-23:00",
+      "features": "takeaway,family_seating",
+      "isFeatured": "false",
+      "isActive": "true",
+      "lastUpdated": "2024-08-14"
+    },
+    {
+      "id": "9",
+      "name": "Naan & Curry House",
+      "slug": "naan-and-curry-house",
+      "city": "Manchester",
+      "address": "34 Curry Mile, Rusholme, Manchester, M14 5LJ",
+      "lat": "53.4456",
+      "lng": "-2.2127",
+      "phone": "+44 161 224 3344",
+      "website": "",
+      "coverImageUrl": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=800&q=80",
+      "galleryImageUrls": "",
+      "cuisines": "Indian,Bangladeshi,Curry",
+      "halalStatus": "certified",
+      "certificationBody": "HMC",
+      "priceLevel": "2",
+      "rating": "4.1",
+      "reviewCount": "201",
+      "openingHours": "Mon-Sun 12:00-23:30",
+      "features": "delivery,takeaway,family_seating,vegetarian,vegan,wheelchair",
+      "isFeatured": "false",
+      "isActive": "true",
+      "lastUpdated": "2024-07-30"
+    },
+    {
+      "id": "10",
+      "name": "Falafel & Friends",
+      "slug": "falafel-and-friends",
+      "city": "Leeds",
+      "address": "12 Headrow, Leeds, LS1 6PT",
+      "lat": "53.7997",
+      "lng": "-1.5462",
+      "phone": "+44 113 246 8800",
+      "website": "https://falafelandfriends.co.uk",
+      "coverImageUrl": "https://images.unsplash.com/photo-1539136788836-5699e78bfc75?w=800&q=80",
+      "galleryImageUrls": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=800&q=80",
+      "cuisines": "Mediterranean,Vegetarian,Vegan",
+      "halalStatus": "pork_free",
+      "certificationBody": "",
+      "priceLevel": "1",
+      "rating": "4.6",
+      "reviewCount": "143",
+      "openingHours": "Mon-Sat 10:00-20:00, Sun Closed",
+      "features": "delivery,takeaway,vegetarian,vegan,wheelchair",
+      "isFeatured": "false",
+      "isActive": "true",
+      "lastUpdated": "2024-11-08"
+    }
+  ],
+  "cities": [
+    {
+      "city": "Stockholm",
+      "country": "Sverige",
+      "isPopular": "true"
+    },
+    {
+      "city": "Göteborg",
+      "country": "Sverige",
+      "isPopular": "true"
+    },
+    {
+      "city": "Malmö",
+      "country": "Sverige",
+      "isPopular": "true"
+    },
+    {
+      "city": "Uppsala",
+      "country": "Sverige",
+      "isPopular": "true"
+    },
+    {
+      "city": "Linköping",
+      "country": "Sverige",
+      "isPopular": "true"
+    },
+    {
+      "city": "Örebro",
+      "country": "Sverige",
+      "isPopular": "true"
+    },
+    {
+      "city": "Västerås",
+      "country": "Sverige",
+      "isPopular": "false"
+    },
+    {
+      "city": "Helsingborg",
+      "country": "Sverige",
+      "isPopular": "false"
+    },
+    {
+      "city": "Norrköping",
+      "country": "Sverige",
+      "isPopular": "false"
+    },
+    {
+      "city": "Jönköping",
+      "country": "Sverige",
+      "isPopular": "false"
+    },
+    {
+      "city": "Lund",
+      "country": "Sverige",
+      "isPopular": "false"
+    },
+    {
+      "city": "Umeå",
+      "country": "Sverige",
+      "isPopular": "false"
+    },
+    {
+      "city": "Gävle",
+      "country": "Sverige",
+      "isPopular": "false"
+    },
+    {
+      "city": "Borås",
+      "country": "Sverige",
+      "isPopular": "false"
+    },
+    {
+      "city": "Södertälje",
+      "country": "Sverige",
+      "isPopular": "false"
+    },
+    {
+      "city": "Eskilstuna",
+      "country": "Sverige",
+      "isPopular": "false"
+    },
+    {
+      "city": "Karlstad",
+      "country": "Sverige",
+      "isPopular": "false"
+    },
+    {
+      "city": "Halmstad",
+      "country": "Sverige",
+      "isPopular": "false"
+    },
+    {
+      "city": "Växjö",
+      "country": "Sverige",
+      "isPopular": "false"
+    },
+    {
+      "city": "Sundsvall",
+      "country": "Sverige",
+      "isPopular": "false"
+    }
+  ],
+  "siteSettings": {
+    "heroTitle": "Hitta din perfekta halalrestaurang",
+    "heroSubtitle": "Upptäck verifierade halalrestauranger nära dig — certifierade, betrodda och gemenskapsgranskade.",
+    "brandName": "HalalFinder",
+    "accentStyle": "emerald",
+    "featuredSectionTitle": "Utvalda restauranger"
+  },
+  "filtersConfig": [
+    {
+      "key": "halal_certified",
+      "label": "Halal Certified",
+      "type": "chip",
+      "options": "certified",
+      "enabled": "true",
+      "sortOrder": "1"
+    },
+    {
+      "key": "family_friendly",
+      "label": "Family Friendly",
+      "type": "chip",
+      "options": "family_seating",
+      "enabled": "true",
+      "sortOrder": "2"
+    },
+    {
+      "key": "prayer_space",
+      "label": "Prayer Space",
+      "type": "chip",
+      "options": "prayer_space",
+      "enabled": "true",
+      "sortOrder": "3"
+    },
+    {
+      "key": "delivery",
+      "label": "Delivery",
+      "type": "chip",
+      "options": "delivery",
+      "enabled": "true",
+      "sortOrder": "4"
+    },
+    {
+      "key": "vegetarian",
+      "label": "Vegetarian",
+      "type": "chip",
+      "options": "vegetarian",
+      "enabled": "true",
+      "sortOrder": "5"
+    },
+    {
+      "key": "vegan",
+      "label": "Vegan",
+      "type": "chip",
+      "options": "vegan",
+      "enabled": "true",
+      "sortOrder": "6"
+    },
+    {
+      "key": "wheelchair",
+      "label": "Wheelchair Access",
+      "type": "chip",
+      "options": "wheelchair",
+      "enabled": "true",
+      "sortOrder": "7"
+    },
+    {
+      "key": "wudu",
+      "label": "Wudu Facility",
+      "type": "chip",
+      "options": "wudu",
+      "enabled": "true",
+      "sortOrder": "8"
+    }
+  ]
+}
