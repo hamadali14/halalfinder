@@ -88,7 +88,7 @@ function buildGvizUrl(sheetUrl: string, tabName: string): string {
 async function fetchTab(sheetUrl: string, tabName: string): Promise<Record<string, string>[]> {
   const url = buildGvizUrl(sheetUrl, tabName);
   console.log(`Fetching tab "${tabName}" from: ${url}`);
-  const res = await fetch(url, { cache: 'no-store' });
+  const res = await fetch(url, { next: { revalidate: 60 } });
   if (!res.ok) throw new Error(`Failed to fetch tab "${tabName}": ${res.status}`);
   const text = await res.text();
   return parseCSV(text);
