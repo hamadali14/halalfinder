@@ -33,7 +33,7 @@ export default function AnsokanPage() {
       `E-post: ${form.kontaktEmail}\n\n` +
       `Meddelande:\n${form.meddelande}`
     );
-    window.location.href = `mailto:hello@halalfinder.com?subject=${subject}&body=${body}`;
+    window.location.href = `mailto:ahmadlarin14@gmail.com?subject=${subject}&body=${body}`;
     setSkickad(true);
   };
 
